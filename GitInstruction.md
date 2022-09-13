@@ -103,7 +103,7 @@ Git - одна из программ - систем контроля верси
 ### Инструкция по созданию pull request
 
 ## Книги и полезные ссылки по изучению git.
-Мои пшеКниги:
+Мои Книги:
 
 Head First Git: A Learner's Guide to Understanding Git from the Inside Out (2022)
 Автор: Raju Gandhi
